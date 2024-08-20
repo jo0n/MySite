@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(87, 177, 147);
+}
+
+nav {
+    background-color: rgb(197, 128, 128);
+    width: 100%;
+    height: 60px;
+}
+
+li {
+    list-style-type: circle;
+    margin: 16px;
+}
+
+ul{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: white;
+}
+.produto {
+    background-color: blueviolet;
+}
